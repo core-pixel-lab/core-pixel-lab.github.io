@@ -1,6 +1,6 @@
-Welcome to qiyehwzi's website!
+Welcome to Qiyehwzi's website!
 
-# 🎯 qiyehwzi
+# 🎯 Qiyehwzi
 **Electrical Engineer → Vision & Robotics Engineer**
 
 ---
