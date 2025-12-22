@@ -1,2 +1,1 @@
-# qiyehwzi.github.io
-personal website
+Welcome to qiyehwzi's website!
