@@ -1,6 +1,6 @@
-Welcome to Qiyehwzi's website!
+Welcome to Core-Pixel-Lab's website!
 
-# 🎯 Qiyehwzi
+# 🎯 Core-Pixel-Lab
 **Electrical Engineer → Vision & Robotics Engineer**
 
 ---
